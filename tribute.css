@@ -28,24 +28,30 @@ span{
 .creator{
     text-align: center;
     /* background-color: #fff; */
+    color:rgb(70, 62, 62);
     font-weight: bold;
 }
- figure{
+ .linus{
     text-align: center;
+    background: linear-gradient(90deg, rgba(82, 20, 15, 0) 5%, rgba(48, 20, 8, 0.37) 50%, rgba(56, 32, 12, 0.158) 34%,  rgba(70, 43, 18, 0.37) 50%, rgba(44, 25, 7, 0) 100%);
+    color:  rgb(49, 46, 46);
     
  }
   figcaption{
+    font-size: 1em;
     /* background-color: #fff; */
-  }
-  h2{
+
+}
+h2{
     /* background-color: #fff; */
     display: inline;
-    padding: 7px;
+    padding: 3px;
+    box-sizing: border-box;
     border-radius: 10px;
     color: white;
     background-color: rgb(70, 62, 62);
-  }
-  p{
+}
+p{
     /* background-color: #fff; */
     padding: 10px;
 }
@@ -61,4 +67,11 @@ blockquote{
 }
 a{
     color: rgb(121, 38, 199);
+}
+
+.Rita{
+    text-align: center;
+    background: linear-gradient(90deg, rgba(82, 20, 15, 0) 5%, rgba(48, 20, 8, 0.37) 50%, rgba(56, 32, 12, 0.158) 34%,  rgba(70, 43, 18, 0.37) 50%, rgba(44, 25, 7, 0) 100%);
+    color:  rgb(49, 46, 46);
+    
 }
